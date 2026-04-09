@@ -10,7 +10,8 @@ baselines, detect anomalies, and respond to threats. It gives security teams vis
 network, helps meet compliance standards, and counters attackers who often use legitimate tools and 
 credentials to evade detection.
 
-Common tools used in NTA include: *Wireshark*, *TCPDump*, *Tshark*. 
+Common tools used in NTA include: *Wireshark*, *TCPDump*, *Tshark* and many more.
+![Common NTA Tools](/assets/NTA.jpg) {: width="600"}
 
 ## Wireshark
 Wireshark is a premier, open-source network traffic analyzer (NTA) tool used for deep packet inspection, troubleshooting, and security analysis by capturing and interpreting live network data. It enables users to visualize traffic, filter by protocols, and analyze PCAP files to detect malicious activity or performance issues.
