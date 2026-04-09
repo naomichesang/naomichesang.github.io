@@ -1,8 +1,10 @@
 ---
-# the default layout is 'page'
+title: About
 icon: fas fa-info-circle
 order: 4
 ---
 
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+Hi, I'm **Naomi Chesang**, a Cybersecurity enthusiast and Computer Engineer.
+- Skilled in Cloud & Network Security
+- Passionate about protecting people and systems.
+- Continously curious, and learning. 
